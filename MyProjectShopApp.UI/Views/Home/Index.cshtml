@@ -1,0 +1,36 @@
+﻿@model MyProjectShopApp.UI.Models.ProductListModel
+@{
+    Layout = "_Layout";
+}
+
+<div class="row">
+
+    <div class="col-md-3">
+        @await Component.InvokeAsync("CategoryList")
+    </div>
+
+
+
+
+    <div class="col-md-9">
+        <partial name="_Slider" />
+
+        <div class="row">
+
+            @foreach (var item in Model.Products)
+            {
+                <partial name="_ProductList" for="@item" />
+            }
+        
+
+
+        </div>
+
+      
+
+
+    </div>
+
+
+
+</div>

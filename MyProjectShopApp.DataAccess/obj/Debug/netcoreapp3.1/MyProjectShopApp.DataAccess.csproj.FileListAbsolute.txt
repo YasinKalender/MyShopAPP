@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\bin\Debug\netcoreapp3.1\MyProjectShopApp.DataAccess.deps.json
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\bin\Debug\netcoreapp3.1\MyProjectShopApp.DataAccess.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\bin\Debug\netcoreapp3.1\MyProjectShopApp.DataAccess.pdb
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\bin\Debug\netcoreapp3.1\MyProjectShopApp.DAL.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\bin\Debug\netcoreapp3.1\MyProjectShopApp.Entities.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\bin\Debug\netcoreapp3.1\MyProjectShopApp.Map.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\bin\Debug\netcoreapp3.1\MyProjectShopApp.DAL.pdb
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\bin\Debug\netcoreapp3.1\MyProjectShopApp.Entities.pdb
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\bin\Debug\netcoreapp3.1\MyProjectShopApp.Map.pdb
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\obj\Debug\netcoreapp3.1\MyProjectShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\obj\Debug\netcoreapp3.1\MyProjectShopApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\obj\Debug\netcoreapp3.1\MyProjectShopApp.DataAccess.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\obj\Debug\netcoreapp3.1\MyProjectShopApp.DataAccess.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\obj\Debug\netcoreapp3.1\MyProjectShopApp.DataAccess.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DataAccess\obj\Debug\netcoreapp3.1\MyProjectShopApp.DataAccess.pdb

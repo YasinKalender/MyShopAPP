@@ -1,0 +1,132 @@
+﻿@model List<MyProjectShopApp.UI.Models.Order.OrderListModel>
+@{
+    ViewData["Title"] = "GetOrders";
+}
+
+<div class="container">
+
+    <h1>Orders</h1>
+
+    <hr />
+
+
+    @foreach (var item in Model)
+    {
+
+        <table class="table table-bordered table-sm mb-3">
+
+            <thead class="bg-primary text-white">
+
+                <tr>
+
+                    <th colspan="2">Order ID: @item.ID</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+
+
+
+                </tr>
+
+
+
+
+            </thead>
+
+            <tbody>
+
+                @foreach (var orderItem in item.OrderItemDetails)
+                {
+                    <tr>
+
+                        <td><img src="~/IMG/@orderItem.ImageUrl" width="80" /></td>
+                        <td>@orderItem.ImageUrl</td>
+                        <td>@orderItem.Price</td>
+                        <td>@orderItem.Quantity</td>
+
+
+
+
+                    </tr>
+
+
+                }
+
+
+
+
+            </tbody>
+
+
+            <tfoot>
+
+                <tr>
+
+                    <td colspan="2">Customer Name</td>
+                    <td>@item.FirstName @item.LastName</td>
+                    <td rowspan="3">@item.Price()</td>
+
+
+                </tr>
+
+                <tr>
+                    <td colspan="2">Adress</td>
+                    <td>@item.Address</td>
+
+                </tr>
+
+                <tr>
+                    <td colspan="2">Phone</td>
+                    <td>@item.Phone</td>
+
+                </tr>
+
+
+
+                <tr>
+                    <td colspan="2">Mail</td>
+                    <td>@item.Address</td>
+
+                </tr>
+
+                <tr>
+                    <td colspan="2">Payment</td>
+                    <td>@item.PaymentTypes</td>
+
+                </tr>
+
+                <tr>
+                    <td colspan="2">Order Status</td>
+                    <td>@item.OrderState</td>
+
+                </tr>
+
+
+
+
+            </tfoot>
+
+
+
+
+
+
+
+
+
+
+        </table>
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+</div>
+

@@ -1,0 +1,42 @@
+﻿@model MyProjectShopApp.UI.Models.DTO.CategoryDTO
+@{
+    ViewData["Title"] = "CategoryAdd";
+}
+
+@section Scripts{
+
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+
+<div class="container">
+    <h1>Category Add</h1>
+    <hr />
+
+    @using (Html.BeginForm("CategoryAdd", "Admin", FormMethod.Post))
+    {
+
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <div class="form-group">
+            <label for="ProductName">Product Name</label>
+            <input type="text" name="CategoryName" class="form-control">
+            <span asp-validation-for="CategoryName" class="text-danger"></span>
+
+        </div>
+
+
+        <button type="submit" class="btn btn-success">Add Category</button>
+
+    }
+
+
+
+
+
+
+</div>
+
+
+

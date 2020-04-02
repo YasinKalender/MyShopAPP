@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\bin\Debug\netcoreapp3.1\MyProjectShopApp.DAL.deps.json
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\bin\Debug\netcoreapp3.1\MyProjectShopApp.DAL.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\bin\Debug\netcoreapp3.1\MyProjectShopApp.DAL.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\bin\Debug\netcoreapp3.1\MyProjectShopApp.DAL.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\bin\Debug\netcoreapp3.1\MyProjectShopApp.DAL.pdb
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\bin\Debug\netcoreapp3.1\MyProjectShopApp.Entities.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\bin\Debug\netcoreapp3.1\MyProjectShopApp.Map.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\bin\Debug\netcoreapp3.1\MyProjectShopApp.Entities.pdb
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\bin\Debug\netcoreapp3.1\MyProjectShopApp.Map.pdb
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\obj\Debug\netcoreapp3.1\MyProjectShopApp.DAL.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\obj\Debug\netcoreapp3.1\MyProjectShopApp.DAL.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\obj\Debug\netcoreapp3.1\MyProjectShopApp.DAL.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\obj\Debug\netcoreapp3.1\MyProjectShopApp.DAL.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\obj\Debug\netcoreapp3.1\MyProjectShopApp.DAL.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.DAL\obj\Debug\netcoreapp3.1\MyProjectShopApp.DAL.pdb

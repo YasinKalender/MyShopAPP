@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Entities\bin\Debug\netcoreapp3.1\MyProjectShopApp.Entities.deps.json
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Entities\bin\Debug\netcoreapp3.1\MyProjectShopApp.Entities.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Entities\bin\Debug\netcoreapp3.1\MyProjectShopApp.Entities.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Entities\bin\Debug\netcoreapp3.1\MyProjectShopApp.Entities.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Entities\bin\Debug\netcoreapp3.1\MyProjectShopApp.Entities.pdb
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Entities\obj\Debug\netcoreapp3.1\MyProjectShopApp.Entities.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Entities\obj\Debug\netcoreapp3.1\MyProjectShopApp.Entities.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Entities\obj\Debug\netcoreapp3.1\MyProjectShopApp.Entities.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Entities\obj\Debug\netcoreapp3.1\MyProjectShopApp.Entities.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Entities\obj\Debug\netcoreapp3.1\MyProjectShopApp.Entities.pdb

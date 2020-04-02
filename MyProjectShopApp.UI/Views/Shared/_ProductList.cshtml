@@ -1,0 +1,53 @@
+﻿@model Product
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+    <div class="col-md-6 mt-4">
+        <div class="card-deck">
+
+            <div class="col-md-12 mb-2">
+                <div class="card">
+                    <img class="card-img-top w-100" src="~/IMG/@Model.ImgURL" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="/Home/Details/@Model.ID">@Model.ProductName</a></h5>
+                        <p class="text text-warning product_price"><i class="fas fa-lira-sign"></i>Price: @Model.Price</p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">
+                            @Model.AddDate
+
+                        </small>
+                        <a asp-controller="Shop" asp-action="Details" asp-route-id="@Model.ID" class="btn btn-primary btn-sm float-right">Ürünü İncele<i class="fas fa-angle-double-right"></i></a>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <form asp-action="AddToCard" asp-controller="Card" method="post"  style="display:inline">
+
+                                <input type="hidden" name="ProductID" value="@Model.ID" />
+                                <input type="hidden" name="Quantity" value="1" />
+                                <button type="submit" class="btn btn-success  btn-sm float-right">Add To Card</button>
+
+
+
+
+                            </form>
+                        }
+
+
+
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+       
+
+
+

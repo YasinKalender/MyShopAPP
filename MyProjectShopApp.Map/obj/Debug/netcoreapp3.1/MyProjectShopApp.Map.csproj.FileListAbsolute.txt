@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Map\bin\Debug\netcoreapp3.1\MyProjectShopApp.Map.deps.json
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Map\bin\Debug\netcoreapp3.1\MyProjectShopApp.Map.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Map\bin\Debug\netcoreapp3.1\MyProjectShopApp.Map.pdb
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Map\bin\Debug\netcoreapp3.1\MyProjectShopApp.Entities.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Map\bin\Debug\netcoreapp3.1\MyProjectShopApp.Entities.pdb
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Map\obj\Debug\netcoreapp3.1\MyProjectShopApp.Map.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Map\obj\Debug\netcoreapp3.1\MyProjectShopApp.Map.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Map\obj\Debug\netcoreapp3.1\MyProjectShopApp.Map.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Map\obj\Debug\netcoreapp3.1\MyProjectShopApp.Map.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Map\obj\Debug\netcoreapp3.1\MyProjectShopApp.Map.dll
+C:\Users\LENOVO\Desktop\Bitirme Projesi\MyProjectShopApp\MyProjectShopApp.Map\obj\Debug\netcoreapp3.1\MyProjectShopApp.Map.pdb

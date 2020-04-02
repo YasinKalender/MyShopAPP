@@ -1,0 +1,105 @@
+﻿@model MyProjectShopApp.UI.Models.Card.CardModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+@if (Model.carditemModels.Count() > 0)
+{
+    <div class="row">
+
+        <div class="col-md-12">
+
+            <h2>Shopping Bang</h2>
+            <hr />
+
+
+            <table class="table table-bordered">
+
+                <thead>
+
+                    <tr>
+                        <th></th>
+                        <th>Quantity</th>
+                        <th>Product Name</th>
+                        <th>Price</th>
+                        <th>Sum Total</th>
+                        <th></th>
+
+
+                    </tr>
+
+                </thead>
+
+                <tbody>
+
+                    @foreach (var item in Model.carditemModels)
+                    {
+
+                        <tr>
+
+                            <td><img src="~/IMG/@item.ImgUrL" width="50" /></td>
+                            <td>@item.Quantity</td>
+                            <td>@item.ProductName</td>
+                            <td>@item.Price</td>
+                            <td>@((item.Price * @item.Quantity).ToString("c"))</td>
+                            <td>
+                                @using (Html.BeginForm("DeleteToFromCard", "Card"))
+                                {
+                                    @Html.Hidden("ProductID", item.ProductID)
+
+                                    <button class="btn btn-danger" type="submit">Delete To Product <i class="fas fa-trash-restore"></i></button>
+
+
+
+
+                                }
+
+
+                            </td>
+
+
+                        </tr>
+                    }
+
+
+                </tbody>
+
+                <tfoot>
+                    <tr>
+                        <td colspan="5"></td>
+                        <td>@Model.Price().ToString("c")</td>
+
+
+                    </tr>
+
+
+                </tfoot>
+
+
+
+
+            </table>
+            <div class="text-center">
+                <a href="~/Shop/List" class="btn btn-primary"><i class="fas fa-shopping-basket"></i>Shopping Go On</a>
+                <a href="~/Card/CheckOut" class="btn btn-success"><i class="fas fa-check"></i>Shopping Complete</a>
+            </div>
+        </div>
+
+
+
+    </div>
+
+
+
+
+
+}
+
+else
+{
+
+    <div class="alert alert-danger" role="alert">
+        <p class="bold"><i class="fas fa-exclamation-triangle"></i>Shopping have not products!</p>
+    </div>
+}
+

@@ -1,0 +1,45 @@
+﻿@model MyProjectShopApp.UI.Models.DTO.CategoryDTO
+@{
+    ViewData["Title"] = "CategoryUpdate";
+}
+
+<div class="container">
+
+
+
+    <h1>Category Update</h1>
+
+    <hr />
+
+
+
+    @using (Html.BeginForm("CategoryUpdate", "Admin", FormMethod.Post))
+    {
+        <input type="hidden" name="CategoryID" value="@Model.ID" />
+
+        <div class="form-group">
+            <label for="ProductName">Product Name</label>
+            <input type="text" name="CategoryName" value="@Model.CategoryName" class="form-control">
+
+        </div>
+
+
+        <button type="submit" class="btn btn-success">Update Category</button>
+
+    }
+
+
+
+</div>
+
+<hr />
+
+
+
+
+
+
+
+
+
+
